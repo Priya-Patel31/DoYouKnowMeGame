@@ -65,8 +65,8 @@ var arrOfQuestions = [
   },
   {
     question : "Who are my best Friends?? ",
-    options :["Ankur and Ashutosh","Sejal and ankur","Sejal and Prince"],
-    answer : 3,
+    options :["Ankur and Ashutosh","Sejal and Ankur","Sejal and Prince"],
+    answer : 2,
     correctAnswer : "Sejal and Ankur"
   },
   {
